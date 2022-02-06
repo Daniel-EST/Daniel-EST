@@ -4,6 +4,6 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daniel-est&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-est&theme=dark&layout=compact&hide=html,jupyter%20notebook,css,TeX" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daniel-est&count_private=true&include_all_commits=true&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-est&theme=merko&hide=html,jupyter%20notebook,css,TeX" />
 </div>
