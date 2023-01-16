@@ -1,6 +1,7 @@
 ![banner](./src/img/banner.png "banner")
 
 ## Contact me
+<a href="https://www.linkedin.com/in/ddssantos/">https://www.danields.me</a>
 
 <a href="https://www.linkedin.com/in/ddssantos/"><img src="./src/img/linkedin.png" alt="linkedin" style="height:50px; margin-right: 20px"/></a>
 <a href="https://www.danields.me/about/resume/en.pdf"><img src="./src/img/cv.png" alt="cv" style="height:50px; margin-right: 20px"/></a>
