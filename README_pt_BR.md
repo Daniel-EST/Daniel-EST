@@ -1,3 +1,4 @@
+<sub><a href="./README.md">English</a> • <a href="./README_pt_BR.md">Português</a></sub>
 <div align="center">
   <br>
   <br>
@@ -26,9 +27,4 @@
 <br>
 <br>
 
-<div>
-  <sub style="float: left;">
-    <a href="./README.md">English</a> • <a href="./README_pt_BR.md">Português</a>
-  </sub>
-  <sub style="float: right;">Icons by <a target="_blank" href="https://icons8.com.br">Icons8</a>.</sub>
-</div>
+<p align='right'><sub>ícones por <a target="_blank" href="https://icons8.com.br">Icons8</a>.</sub></p>
