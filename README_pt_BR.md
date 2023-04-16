@@ -27,4 +27,4 @@
 <br>
 <br>
 
-<p align='right'><sub>ícones por <a target="_blank" href="https://icons8.com.br">Icons8</a>.</sub></p>
+<p align='right'><sub>Ícones por <a target="_blank" href="https://icons8.com.br">Icons8</a>.</sub></p>
