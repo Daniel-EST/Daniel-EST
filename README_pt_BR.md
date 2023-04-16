@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.danields.me/en">
+  <a href="https://www.danields.me/pt_BR">
     <img height="60" src="./imgs/avatars/shinchan.png" />
   </a>
   <br>
@@ -12,14 +12,14 @@
     <a href="mailto:daniel.d.s.c.g@hotmail.com">
       <img width="18" src="./imgs/email.png" />
     </a>
-    <a href="https://www.danields.me/en">
+    <a href="https://www.danields.me/pt_BR">
       <img width="18"src="./imgs/webpage.png" />
     </a>
   </p>
-  <p><b>Hello, Daniel here!</b></p> 
-  <p>Master's student in Systems Engineering and Computer Science at the Federal University of Rio de Janeiro</p>
-  <p>Usually working on Deep Learning and Artificial Intelligence projects.</p>
-  <p>Rio de Janeiro, Brazil.</p>
+  <p><b>Olá, Daniel aqui!</b></p> 
+  <p>Mestrando em Engenharia de Sistemas e Computação, pela Universidade Federal do Rio de Janiero</p>
+  <p>Geralmente trabalhando em projetos de Deep Learning e Inteligência Artificial.</p>
+  <p>Rio de Janeiro, Brasil.</p>
 </div>
 
 <br>
