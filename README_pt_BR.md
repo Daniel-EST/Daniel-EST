@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ddssantos/">
       <img width="18" src="./imgs/linkedin.svg" />
     </a>
-    <a href="mailto:daniel.d.s.c.g@hotmail.com">
+    <a href="mailto:daniel@danields.me">
       <img width="18" src="./imgs/email.png" />
     </a>
     <a href="https://www.danields.me/pt_BR">
