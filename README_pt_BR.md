@@ -19,7 +19,7 @@
   </p>
   <p><b>Olá, Daniel aqui!</b></p> 
   <p>Mestrando em Engenharia de Sistemas e Computação, pela Universidade Federal do Rio de Janiero</p>
-  <p>Geralmente trabalhando em projetos de Deep Learning e Inteligência Artificial.</p>
+  <p>Geralmente trabalhando em projetos de Deep Learning, Inteligência Artificial e Jogos.</p>
   <p>Rio de Janeiro, Brasil.</p>
 </div>
 
