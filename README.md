@@ -19,7 +19,7 @@
   </p>
   <p><b>Hello, Daniel here!</b></p> 
   <p>Master's student in Systems Engineering and Computer Science at the Federal University of Rio de Janeiro</p>
-  <p>Usually working on Deep Learning and Artificial Intelligence projects.</p>
+  <p>Usually working on Deep Learning, Artificial Intelligence projects and Games.</p>
   <p>Rio de Janeiro, Brazil.</p>
 </div>
 
