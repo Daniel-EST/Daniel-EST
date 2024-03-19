@@ -18,6 +18,7 @@
     </a>
   </p>
   <p><b>Olá, Daniel aqui!</b></p> 
+  <p>Machine Learning Engineer <a target="_blank" href="https://github.com/LokaHQ">@LokaHQ</a>
   <p>Mestrando em Engenharia de Sistemas e Computação, pela Universidade Federal do Rio de Janiero</p>
   <p>Geralmente trabalhando em projetos de Deep Learning, Inteligência Artificial e Jogos.</p>
   <p>Rio de Janeiro, Brasil.</p>
