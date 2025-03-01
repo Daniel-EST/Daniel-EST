@@ -1,4 +1,5 @@
 <sub><a href="./README.md">English</a> • <a href="./README_pt_BR.md">Português</a></sub>
+
 <div align="center">
   <br>
   <br>
@@ -10,14 +11,18 @@
     <a href="https://www.linkedin.com/in/ddssantos/">
       <img width="18" src="./imgs/linkedin.svg" />
     </a>
+    <a href="https://notnotniel.itch.io/">
+          <img width="18" src="./imgs/itch-io.svg" />
+     </a>
     <a href="mailto:daniel@danields.me">
-      <img width="18" src="./imgs/email.png" />
+      <img width="18" src="./imgs/email.svg" />
     </a>
     <a href="https://www.danields.me/pt_BR">
-      <img width="18"src="./imgs/webpage.png" />
+      <img width="18"src="./imgs/webpage.svg" />
     </a>
+
   </p>
-  <p><b>Olá, Daniel aqui!</b></p> 
+  <p><b>Olá, Daniel aqui!</b></p>
   <p>Machine Learning Engineer <a target="_blank" href="https://github.com/LokaHQ">@LokaHQ</a>
   <p>Mestrando em Engenharia de Sistemas e Computação, pela Universidade Federal do Rio de Janiero</p>
   <p>Geralmente trabalhando em projetos de Deep Learning, Inteligência Artificial e Jogos.</p>
